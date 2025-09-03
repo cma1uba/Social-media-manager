@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: DM sans, Arial;
+    box-sizing: boder-box;
+}
+.container{
+    max-width: 375px;
+    margin: 0 auto;
+    padding: 15px;
+    font-size: 18px;
+    color: hsl(0, 0%, 7%);
+    background: hsl(0, 0%, 97%);
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.header{
+    color: white;
+    background: hsl(256, 67%, 59%);
+    padding: 20px 0;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.header .title{
+    font-size: 30px;
+    font-weight: 500;
+}
+.header span{
+    color: hsl(39, 100%, 71%);
+}
+.header img{
+    width: 170px;
+}
+.social-accounts{
+    background: hsl(0, 0%, 100%);
+    margin: 15px 0;
+    border-radius: 10px;
+    padding: 20px 0;
+}
+.social-accounts h3{
+    margin: 0 20px;
+}
+.posting-schedule{
+    margin: 15px 0;
+    background: hsl(39, 100%, 71%);
+    padding: 15px 15px 0 15px;
+    border-radius: 10px;
+}
+.posting-schedule img{
+    width: 200px;
+    margin-top: 10px;
+}
+.social-schedule{
+    background: hsl(254, 88%, 90%);
+    border-radius: 10px;
+    margin: 15px 0;
+    padding: 20px 15px;
+    text-align: center;
+}
+.social-schedule img{
+    margin: 15px auto;
+}
+.followers{
+    background: hsl(256, 67%, 59%);
+    padding: 15px;
+    border-radius: 10px;
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.followers img{
+    width: 220px;
+}
+.followers h4{
+    font-size: 25px;
+    width: 65%;
+    
+}
+.audience-growth{
+    margin: 15px 0;
+    padding: 15px;
+    background: hsl(0, 0%, 100%);
+    border-radius: 10px;
+}
+.audience-growth img{
+    width: 60%;
+    margin-top: 10px; 
+}
+.content-creation{
+    background: hsl(31, 66%, 93%);
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 10px;
+}
+.content-creation h2{
+    line-height: 25px;
+}
+.content-creation h2 span{
+    color: hsl(256, 67%, 59%);
+}
+.content-creation img{
+    width: 50%;
+    margin: 15px 0;
+}
+.content-writing{
+    background: hsl(39, 100%, 71%);
+    border-radius: 10px;
+    margin: 15px 0;
+    padding: 20px;
+}
+.content-writing h2{
+    width: 90%;
+    margin-bottom: 10px;
+}
+.content-writing img{
+    width: 50%;
+}
