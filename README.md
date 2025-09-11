@@ -62,7 +62,7 @@ To display grid:
 
 ### Useful resources
 
-- W3Shools](https://www.w3schools.com) - Was very helpful in understanding Position elements in grid.
+- [W3Shools](https://www.w3schools.com) - Was very helpful in understanding Position elements in grid.
 
 ## Author
    • Maluba Choonya.
