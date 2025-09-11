@@ -46,6 +46,12 @@ To display grid:
 ```css
 .container {
   display: grid;
+  grid-column-template: repeat(4, 1fr)
+}
+/*specifying grid elements position*/
+.child1{
+ grid-row: 1/3;
+ grid-column: 2/4;
 }
 ```
 
